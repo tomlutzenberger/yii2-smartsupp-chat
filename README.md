@@ -1,3 +1,15 @@
+<div style="text-align: center">
+
+![Yii2 Smartsupp Chat](logo.png)
+</div>
+
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/tomlutzenberger/yii2-smartsupp-chat)
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/tomlutzenberger/yii2-smartsupp-chat)
+![Packagist Downloads](https://img.shields.io/packagist/dt/tomlutzenberger/yii2-smartsupp-chat)
+![Lines of code](https://img.shields.io/tokei/lines/github/tomlutzenberger/yii2-smartsupp-chat)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tomlutzenberger_yii2-smartsupp-chat&metric=alert_status)](https://sonarcloud.io/dashboard?id=tomlutzenberger_yii2-smartsupp-chat)
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
+
 Yii2 Smartsupp
 =====================
 Yii2 Widget for Smartsupp Chat
