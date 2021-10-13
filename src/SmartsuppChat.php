@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * @noinspection PhpUnused
+ * @noinspection UnknownInspectionInspection
+ */
+
 namespace TomLutzenberger\Smartsupp;
 
 use Yii;
@@ -58,7 +63,7 @@ c.src='//www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
 })(document);";
 
         $view = $this->getView();
-        $view->registerJs( $script, View::POS_HEAD, 'smartsupp');
+        $view->registerJs($script, View::POS_HEAD, 'smartsupp');
 
         return '';
     }
