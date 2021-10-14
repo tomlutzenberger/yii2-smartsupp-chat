@@ -4,6 +4,7 @@
 </div>
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/tomlutzenberger/yii2-smartsupp-chat)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/tomlutzenberger/yii2-smartsupp-chat)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/tomlutzenberger/yii2-smartsupp-chat)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/tomlutzenberger/yii2-smartsupp-chat)
 ![Lines of code](https://img.shields.io/tokei/lines/github/tomlutzenberger/yii2-smartsupp-chat)
