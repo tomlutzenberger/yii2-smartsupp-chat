@@ -32,7 +32,7 @@ or add
 "tomlutzenberger/yii2-smartsupp-chat": "*"
 ```
 
-to the require section of your `composer.json` file.
+to the required section of your `composer.json` file.
 
 
 Usage
