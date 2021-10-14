@@ -1,7 +1,4 @@
-<div style="text-align: center">
-
 ![Yii2 Smartsupp Chat](logo.png)
-</div>
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/tomlutzenberger/yii2-smartsupp-chat)
 ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/tomlutzenberger/yii2-smartsupp-chat)
