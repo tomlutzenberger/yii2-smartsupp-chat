@@ -47,7 +47,7 @@ class SmartsuppChat extends Widget
             $this->key = Yii::$app->params['smartsupp'];
         }
 
-        if (!isset($this->key) || empty($this->key)) {
+        if (empty($this->key)) {
             return '';
         }
 
