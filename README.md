@@ -6,7 +6,7 @@
 ![Packagist Downloads](https://img.shields.io/packagist/dt/tomlutzenberger/yii2-smartsupp-chat)
 ![Lines of code](https://img.shields.io/tokei/lines/github/tomlutzenberger/yii2-smartsupp-chat)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tomlutzenberger_yii2-smartsupp-chat&metric=alert_status)](https://sonarcloud.io/dashboard?id=tomlutzenberger_yii2-smartsupp-chat)
-![Maintenance](https://img.shields.io/maintenance/yes/2021)
+![Maintenance](https://img.shields.io/maintenance/yes/2022)
 
 Yii2 Smartsupp
 =====================
